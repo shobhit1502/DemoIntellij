@@ -19,7 +19,7 @@ public class HomeController {
     @RequestMapping("/todos")
      public List<String> justTest(){
          List<String> todos = new ArrayList<>();
-         todos.add("Learn java   tbhynjumkyjtynhbtgvbh...");
+         todos.add("Learn java...");
          todos.add("Learn springBoot...");
          todos.add("Make projects...");
 
